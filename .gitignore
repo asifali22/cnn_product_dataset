@@ -1,2 +1,2 @@
-GoogleNews-vectors-negative300.bin
-my_model.h5
+glove.6B.100d.txt
+product_model_1.h5
